@@ -31,4 +31,8 @@ PETG is an easily available filament, that can be recycled. Except for the frict
 
 The next goal I set is printing the sliders in POM filament, progress updates will be shown here once progress is made.
 
+### Compatibility
+**Compatible housings tested so far:**
+- Kailh Pro
+
 <br><img src="images/render1.png" width="350px">
