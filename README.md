@@ -35,4 +35,4 @@ The next goal I set is printing the sliders in POM filament, progress updates wi
 **Compatible housings tested so far:**
 - Kailh Pro
 
-<br><img src="images/render1.png" width="350px">
+<br><img src="images/render2.png" width="350px">
