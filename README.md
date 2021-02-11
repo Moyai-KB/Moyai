@@ -38,3 +38,4 @@ The next goal I set is printing the sliders in POM filament, progress updates wi
 - Kailh Pro
 
 <br><img src="images/render2.png" width="350px">
+<img src="images/side1.png" width="350px">
