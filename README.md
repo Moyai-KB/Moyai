@@ -1,3 +1,4 @@
+<img src="images/banner.png>
 # Moyai - Parametric, Tactile MX-Style Slider
 **Current version: V22**
 
