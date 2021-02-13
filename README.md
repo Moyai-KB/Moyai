@@ -39,5 +39,13 @@ The next goal I set is printing the stems in POM filament, progress updates will
 **Compatible housings tested so far:**
 - Kailh Pro
 
+
+### UPDATE: POM Filament.
+- POM filament is extremely hard to use and there is a high risk of formaldehyde production.
+- Formaldehyde is a **carcinogenic neurotoxin** and *can* be **__lethal!__**
+- Due to the nature of the material being hard to print, I was not able to find out if there is *any* benefit regarding switch feel that outwheighs the disadvanatges and risks of using it.
+
+- I **highly** recommend to **STAY AWAY** from POM filament for printing your switches. It is dangerous, hard and can **KILL** you if you're not careful!
+
 <br><img src="images/render2.png" width="350px">
 <img src="images/side1.png" width="350px">
