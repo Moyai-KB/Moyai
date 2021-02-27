@@ -44,6 +44,3 @@ The next goal I set is printing the stems in POM filament, progress updates will
 ### Compatibility
 **Compatible housings tested so far:**
 - Kailh Pro
-
-<br><img src="images/render2.png" width="350px">
-<img src="images/side1.png" width="350px">
