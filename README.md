@@ -1,7 +1,7 @@
 <img src="images/banner.png">
 
 # Moyai - Parametric, Tactile MX-Style Stem
-**Current version: V3_R44**
+**Current version: V3_R49**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Moyai</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PaulGameDev" property="cc:attributionName" rel="cc:attributionURL">Paul_GD</a> is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Moyai-KB/Moyai" rel="dct:source">https://github.com/Moyai-KB/Moyai</a>.
 
